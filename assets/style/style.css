@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(#557153 0%, #7D8F69 40%, #A9AF7E 100%);
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.profileImage {
+    width: 200px;
+    transform: translateY(-10px);
+}
+
+.about {
+    background: linear-gradient(#E6E5A3 0%, #E6E5A3 40%, #FFFBAC 100%);
+    color: #435334;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+
+.education {
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+
+.title {
+    color: white;
+}
+
+.footer {
+    background-color: #F5F0BB;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+
+.contact {
+    font-size: 25px;
+}
+
+.cory {
+    font-size: 20px;
+}
